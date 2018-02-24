@@ -1,7 +1,7 @@
 from PIL import Image
 import Process as p
 import os
-
+#这里只是提供了数据增强批量应用的简单方法，不必要直接执行，根据情况修改。
 list = os.listdir("./3")
 # print(list)
 
