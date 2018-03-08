@@ -54,33 +54,19 @@ class Config(object):
 
 尽管我的数据集不是很好，训练时间也很短，但是效果却还可以，我测试了几张图片基本都可以准确分类。
 
-![](https://github.com/cryer/anime_character_type_classifier/raw/master/image/luo5.jpg)
 
-测试输出：`这个妹子是： 萝莉`
+|`这个妹子是： 萝莉`|`这个妹子是： 萝莉`|
+|:----:|:-----:|
+|![](image/luo5.jpg)| ![](image/luo6.jpg)|
 
-![](https://github.com/cryer/anime_character_type_classifier/raw/master/image/luo6.jpg)
+|`这个妹子是： 御姐`|`这个妹子是： 御姐`|
+|:----:|:-----:|
+|![](image/yu3.jpg)| ![](image/yu4.jpg)|
 
-测试输出：`这个妹子是： 萝莉`
+|`这个妹子是： 成熟女性`|`这个妹子是： 成熟女性`|
+|:----:|:-----:|
+|![](image/shu1.jpg)| ![](image/shu2.jpg)|
 
-![](https://github.com/cryer/anime_character_type_classifier/raw/master/image/yu3.jpg)
-
-测试输出：`这个妹子是： 御姐`
-
-![](https://github.com/cryer/anime_character_type_classifier/raw/master/image/yu4.jpg)
-
-测试输出：`这个妹子是： 御姐`
-
-![](https://github.com/cryer/anime_character_type_classifier/raw/master/image/yu6.jpg)
-
-测试输出：`这个妹子是： 御姐`
-
-![](https://github.com/cryer/anime_character_type_classifier/raw/master/image/shu1.jpg)
-
-测试输出：`这个妹子是： 成熟女性`
-
-![](https://github.com/cryer/anime_character_type_classifier/raw/master/image/shu2.jpg)
-
-测试输出：`这个妹子是： 成熟女性`
 
 emmmm，你问我成熟女性和御姐有啥区别？？ emmmm，我也没看出来，只能交给百度了，搜索御姐出来的图片我都认为是御姐了，
 搜索成熟女性出来的图片，我就认为为是成熟女性了。。上面最后两个在百度眼里的确就是成熟女性，可能成熟女性不一定是
